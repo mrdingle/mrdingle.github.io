@@ -337,7 +337,7 @@ strong {
 
 iframe {
   margin: 30px auto 30px auto;
-  display: inline-block;
+  display: block;
 }
 
 #map {
